@@ -6,8 +6,10 @@
 ## Summary:
 	> Camp Cipher is a social music website where artists are encouraged 
 	>to build off one another's work in order to create an environment 
-	>where good flow and potent lyricis stand out. Users are allowed to >"start a campfire" by contributing their best single or four-bar 
-	>rhyme scheme. A "campfire circle" is then opened up to the public to >allow other artists to join in and post their own additions to the 
+	>where good flow and potent lyricis stand out. Users are allowed to 
+	>"start a campfire" by contributing their best single or four-bar 
+	>rhyme scheme. A "campfire circle" is then opened up to the public to
+	>allow other artists to join in and post their own additions to the 
 	>freestyle session, where it was left off. These additions can be 
 	>voted on by other users in the campfire, and the highest voted will 
 	>be featured under the original posters lyrics. The original poster 
